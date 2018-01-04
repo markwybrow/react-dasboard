@@ -1,0 +1,113 @@
+.closeBtn {
+    color: #333;
+    float: right;
+    font-size: 30px;
+    line-height: 20px;
+    margin: -20px -20px;
+    padding: 4px 5px 10px 5px;
+}
+
+.closeBtn:hover,
+.closeBtn:focus {
+    background-color: rgba(0, 0, 0, 0.1);
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.card-modal {
+    text-align: left;
+    max-width: 400px;
+}
+
+.card-modal .side{
+    float: left;
+    margin: 10px 10px;
+    width: 140px;
+}
+
+.card-modal .avatar {
+    background: grey;
+    height: 128px;
+    width: 128px;
+    margin-right: 10px;
+}
+
+.card-modal ul {
+    font-size:13px;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+.card-modal h2 span {
+    display: block;
+    border-bottom: 1px solid;
+}
+
+.card-modal .heading {
+    color: #621a4b;
+    font-size: 140%;
+    font-weight: bold;
+    line-height: 140%;
+    padding: 110px 4px 5px 0;
+    margin-top: -2px;
+}
+
+.card-modal .card-content {
+    float: right;
+    width: 200px;
+    position: relative;
+}
+
+@media screen and (max-width: 770px) {
+    .modal{
+        max-height: calc(100% - 100px);
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        overflow-y: scroll;
+    }
+    div.card-modal {
+        margin-top: 0;
+        width: 100%;
+        left: calc(50% - 250px);
+
+    }
+    .card-modal .heading {
+        line-height: 140%;
+        padding: 10px 4px 5px 0;
+        margin-top: -2px;
+    }
+
+    .card-modal .card-content {
+        width: 90%;
+        margin-left: 10px;
+        float: left;
+        position: relative;
+    }
+}
+@media screen and (max-width: 420px) {
+
+    .card-modal {
+        top:50%;
+        width: 100%;
+        left: calc(50% - 10px);
+        top: 20px;
+        margin-top: 120px;
+    }
+    .card-modal .heading {
+        line-height: 140%;
+        padding: 10px 4px 5px 0;
+
+    }
+
+    .card-modal .card-content {
+        width: 100%;
+        margin-left: 5px;
+        float: left;
+        position: relative;
+        font-size: 12px;
+    }
+}
