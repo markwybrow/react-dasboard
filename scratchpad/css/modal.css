@@ -1,0 +1,45 @@
+.button {
+    background: coral;
+    padding: 1em 2em;
+    color: #fff;
+    border: 0 solid;
+    margin: 2em;
+}
+
+.button:hover {
+    background: #333;
+}
+
+.modalPanel {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modalContent {
+    background-color: #ddd8d8;
+    color: #333;
+    margin: 20% auto;
+    padding: 20px;
+    width: 70%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 5px 20px 0 rgba(0, 0, 0, 0.2), 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 5px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.closeBtn {
+    color: #333;
+    float: right;
+    font-size: 30px;
+}
+
+.closeBtn:hover,
+.closeBtn:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
