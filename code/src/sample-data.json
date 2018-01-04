@@ -1,0 +1,116 @@
+{
+    "companyInfo": {
+        "companyName": "Berge - Doherty",
+        "companyMotto": "bricks-and-clicks engage paradigms",
+        "companyEst": "2011-08-30T11:31:03.684Z"
+    },
+    "employees": [{
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/aleclarsoniv/128.jpg",
+            "firstName": "Gabriel",
+            "lastName": "Schmidt",
+            "jobTitle": "Dynamic Security Specialist",
+            "age": 46,
+            "bio": "Non ut voluptatum ullam ut et dolores non aut minima. Maxime dolorum nobis rerum sit sed voluptatem. Ea excepturi eligendi suscipit aut consequuntur nostrum sint voluptatum. Sed tempore ut est dolorum nesciunt sapiente magni repellendus. Necessitatibus eius fugiat maxime debitis magnam quibusdam autem omnis.",
+            "dateJoined": "2014-10-15T04:29:27.950Z"
+        },
+        {
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ma_tiax/128.jpg",
+            "firstName": "Cooper",
+            "lastName": "Grady",
+            "jobTitle": "Dynamic Paradigm Representative",
+            "age": 21,
+            "bio": "Excepturi adipisci magnam est necessitatibus beatae laboriosam dolorum consequatur. Ut accusamus quaerat. Fuga deserunt et voluptatibus quidem repellendus et. Ipsa facilis voluptas expedita earum non provident. Temporibus quia beatae sequi aut inventore necessitatibus omnis excepturi. Non numquam ipsam.",
+            "dateJoined": "2016-08-09T22:10:56.672Z"
+        },
+        {
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/teddyzetterlund/128.jpg",
+            "firstName": "Lauren",
+            "lastName": "Rice",
+            "jobTitle": "Dynamic Response Coordinator",
+            "age": 43,
+            "bio": "Ut nesciunt velit error et. Quia non magni impedit. Facere laboriosam aut debitis. Provident autem et.",
+            "dateJoined": "2013-10-07T19:00:24.734Z"
+        },
+        {
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/timpetricola/128.jpg",
+            "firstName": "Cooper",
+            "lastName": "Hermann",
+            "jobTitle": "Legacy Directives Architect",
+            "age": 28,
+            "bio": "Libero doloremque exercitationem harum praesentium saepe atque. Similique hic dolorum aut ut optio. Aperiam corporis ut mollitia voluptas.",
+            "dateJoined": "2016-07-25T11:07:25.365Z"
+        },
+        {
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ludwiczakpawel/128.jpg",
+            "firstName": "Annabelle",
+            "lastName": "Fahey",
+            "jobTitle": "Direct Implementation Developer",
+            "age": 43,
+            "bio": "Est inventore beatae quam eveniet. Unde sapiente reiciendis suscipit. Repellat minima laboriosam illum ad necessitatibus quasi non dolores voluptatem. Expedita doloremque et reiciendis nostrum sint quia. Sed ut dolore consequuntur corrupti natus sint ut. Dignissimos itaque eos eum et dolor.",
+            "dateJoined": "2014-06-24T19:47:48.821Z"
+        },
+        {
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/langate/128.jpg",
+            "firstName": "Lara",
+            "lastName": "Mann",
+            "jobTitle": "Customer Data Agent",
+            "age": 23,
+            "bio": "Necessitatibus ut vel reprehenderit magni quidem laborum. Quia aut qui totam recusandae quaerat quaerat velit ducimus rerum. Et voluptate corporis earum repellat ipsa sint est consequatur. Impedit aut rerum nulla eligendi repellendus et corrupti. Molestiae in libero veritatis.",
+            "dateJoined": "2016-05-26T12:59:21.514Z"
+        },
+        {
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/oskamaya/128.jpg",
+            "firstName": "Owen",
+            "lastName": "O'reilly",
+            "jobTitle": "Direct Factors Manager",
+            "age": 27,
+            "bio": "Vitae sunt distinctio nesciunt. Sint at natus. Reiciendis numquam quos facere. Asperiores voluptate ut dolorum non et saepe ducimus eveniet. Sed harum et qui quidem commodi.",
+            "dateJoined": "2013-11-06T21:40:08.374Z"
+        },
+        {
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/juanmamartinez/128.jpg",
+            "firstName": "George",
+            "lastName": "Hayes",
+            "jobTitle": "Legacy Brand Orchestrator",
+            "age": 34,
+            "bio": "Ut hic minima inventore sunt ut et ea perspiciatis impedit. Ducimus nisi non dolore est perspiciatis harum autem accusantium rerum. Odio mollitia sit. Mollitia amet quia et iure. Nulla alias commodi sint magnam ex unde sit laboriosam voluptates.",
+            "dateJoined": "2010-01-26T23:11:57.615Z"
+        },
+        {
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/cherif_b/128.jpg",
+            "firstName": "Christian",
+            "lastName": "Haley",
+            "jobTitle": "Chief Functionality Specialist",
+            "age": 29,
+            "bio": "Vitae odit veritatis. Mollitia doloribus tempora adipisci qui. Quos voluptas corporis aperiam consequatur. At omnis non commodi inventore dolorem minus quo amet. Est ut ut cum ut reprehenderit.",
+            "dateJoined": "2012-12-29T16:10:22.370Z"
+        },
+        {
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/prheemo/128.jpg",
+            "firstName": "Adam",
+            "lastName": "Hayes",
+            "jobTitle": "Chief Solutions Developer",
+            "age": 57,
+            "bio": "Sapiente et vel consequatur aliquam saepe aperiam dolor accusamus odit. Sit non possimus voluptates praesentium odio qui quas. Magnam quo dicta enim omnis voluptas et quia nihil accusamus.",
+            "dateJoined": "2013-10-21T15:47:02.687Z"
+        },
+        {
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mr_subtle/128.jpg",
+            "firstName": "Violet",
+            "lastName": "Cole",
+            "jobTitle": "Central Factors Architect",
+            "age": 66,
+            "bio": "Est esse nihil. Esse quo fugit sequi rerum et est. Vel voluptatem quam temporibus beatae et. Autem commodi assumenda rerum deserunt ullam consequuntur debitis doloribus. Ut voluptas eum soluta quos. Natus ducimus quia ut.",
+            "dateJoined": "2016-09-10T04:50:51.384Z"
+        },
+        {
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/wegotvices/128.jpg",
+            "firstName": "Max",
+            "lastName": "Koss",
+            "jobTitle": "Global Accountability Designer",
+            "age": 50,
+            "bio": "Facilis aut rerum quia consequatur aperiam saepe delectus eveniet facere. Quia possimus explicabo delectus nostrum quia nesciunt iste. Dolores eligendi porro voluptas sapiente quam voluptatem facere.",
+            "dateJoined": "2010-04-18T09:20:14.100Z"
+        }
+    ]
+}
