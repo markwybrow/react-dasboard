@@ -1,0 +1,100 @@
+body {
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #2d373e;
+    margin: 0;
+    background-color: #f4f3f0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid gray;
+    left: 0;
+    height: 120px;
+    overflow: auto;
+    padding: 10px 20px 5px 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+header .motto {
+    float: left;
+}
+
+header .established {
+    float: right;
+}
+
+header:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.header {
+    padding: 10px 20px;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 100px;
+    margin-top: 140px;
+    clear: both;
+    transition: all 1s ;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+    -webkit-transition: all 1s;
+    
+}
+
+.content {
+    grid-column: span 3;
+    width: 100%;
+    clear: both;
+}
+
+.content:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width: 420px) {
+    body {
+        margin: 0 0;
+    }
+    header{
+        height: 120px;
+        overflow: auto;
+        padding: 5px 10px 5px 10px;
+        top: 0;
+    }
+    header .motto {
+        float: left;
+    }
+
+    header .established {
+        float: left;
+    }
+
+    .header {
+        
+        grid-column: span 6;
+    }
+    .wrapper {
+        display: grid;
+
+        margin-top: 100px;
+        clear: both;
+        transition: all 1s;
+        -moz-transition: all 1s;
+        -o-transition: all 1s;
+        -webkit-transition: all 1s;
+    }
+    .content {
+        grid-column: span 1;
+    }
+}
