@@ -1,6 +1,23 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). 
 
+If you wish to recreate the environment - please build a react app with create-react-app
+```
+npm i -g create-react-app
+```
+then generate an app eg. test
+```
+create-react-app test
+```
+once created - copy all of my source-code from "code" directory into root & run ```npm i```
 
+### Basic run of SPA without installing development environment
+To see running SPA without installation - simply download the build folder 
+while in the build folder 
+
+```npm i
+npm start
+```
+go to browser localhost:3001
 
 ## Table of Contents
 - [Summary](#summary)
@@ -11,7 +28,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - [npm run build](#npm-run-build)
  
 ## Summary 
-### Code base and running Application
+### Code base and running Application with complete environment installation
 
 This application was scaffolded by using ``` create-react-app ```
 
@@ -27,7 +44,7 @@ This application was scaffolded by using ``` create-react-app ```
 - source code can be viewed in ./src and ./public
 
 
-## Folder Structure
+## Folder Structure for Development & Src files
 
 This project should look like this:
 
@@ -78,8 +95,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode. If port 3000 is used - you will be prompted to increase by integer<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in the development mode. If port 3001 is used - you will be prompted to increase by integer<br>
+Open [http://localhost:3000](http://localhost:3001) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
