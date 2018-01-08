@@ -2,6 +2,8 @@ import React, { Component } from "react";
 
 import Aux from "./Auxiliary";
 
+import classes from "../../css/modal.css";
+
 export default class Modal extends Component {
 	constructor(props) {
 		super(props);

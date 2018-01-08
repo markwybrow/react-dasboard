@@ -7,6 +7,7 @@ const cardDetails = props => {
 
 	const userDetail = props.meta.meta;
 
+
 	return (
 		<Aux>
 			<div className="card-modal">
