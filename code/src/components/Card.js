@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Modal from "./UI/Modal";
 import CardDetails from "./CardDetails";
 import Aux from "./UI/Auxiliary";
+import { truncate } from "../js/Utils";
 
 
 export default class Card extends Component {
@@ -14,7 +15,7 @@ export default class Card extends Component {
   }
   toggleModal = () => {
     this.setState({ isModalOpen: !this.state.isModalOpen });
-    console.log("id ", this.props.id);
+
   };
 
   closeModal = () => {
@@ -38,12 +39,11 @@ export default class Card extends Component {
           </div>
           <div className="card-content">
             <h2 className="heading">
-              {" "}
-              {this.props.meta.firstName + " " + this.props.meta.lastName}{" "}
+              {this.props.meta.firstName + " " + this.props.meta.lastName}
             </h2>
             <p> {this.props.meta.jobTitle} </p>
           </div>
-          <p> </p>
+          <p className="small"> {truncate(this.props.meta.bio)} </p>
         </div>
 
         <Modal

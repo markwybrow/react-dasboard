@@ -45,6 +45,10 @@
     padding: 0;
     margin: 1px;
 }
+.small {
+    font-size: 11px;
+    margin: 0px 4px;
+}
 
  
  @media screen and (max-width: 420px) {

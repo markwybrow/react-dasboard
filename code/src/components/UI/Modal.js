@@ -7,7 +7,6 @@ import classes from "../../css/modal.css";
 export default class Modal extends Component {
 	constructor(props) {
 		super(props);
-		console.log("Modal: ", props);
 	}
 
 	render() {
